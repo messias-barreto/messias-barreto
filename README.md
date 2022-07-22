@@ -7,8 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_alvessilva)
 
 <div style="display: inline_block">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27%22%3E
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia%22/%3E
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=roronoaeric&show_icons=true&theme=algolia&line_height=27%22%3E
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roronoaeric&layout=compact&theme=algolia%22/%3E
 </div>
 
 ## Tecnologias que eu uso no meu dia
