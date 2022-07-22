@@ -1,4 +1,4 @@
-## Olá Pessoal! Eu sou Messias Barreto 🖐️
+## Olá! Eu sou o Bruno 🖐️
 
 [![Blog](https://img.shields.io/website?label=Bas.inf.br&style=for-the-badge&url=https://bas.inf.br/)](https://bas.inf.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoalvesilva/)
@@ -7,8 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_alvessilva)
 
 <div style="display: inline_block">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=roronoaeric&show_icons=true&theme=algolia&line_height=27%22%3E
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roronoaeric&layout=compact&theme=algolia%22/%3E
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=messias-barreto&show_icons=true&theme=algolia&line_height=27">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messias-barreto&layout=compact&theme=algolia"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
