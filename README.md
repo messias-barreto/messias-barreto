@@ -5,7 +5,8 @@
 <div style="display: inline_block">
   <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cb16daa-a978-45d2-a6fd-24e06dc6f47a/df2xyre-39334b6f-fcc4-43bd-a0e0-f0d058dc42eb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjYjE2ZGFhLWE5NzgtNDVkMi1hNmZkLTI0ZTA2ZGM2ZjQ3YVwvZGYyeHlyZS0zOTMzNGI2Zi1mY2M0LTQzYmQtYTBlMC1mMGQwNThkYzQyZWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kEpbv-VoAYMo8Z5fSmz2Vg9vUpXYj7gIaySVbKuBPqY" style="width: 100px"/>
 
-<div>Trabalho com Desenvolvimento de Software na UNISUAM, com ênfase em PHP, HTML5, JavaScript, Sql e Web Api.</p/>
+<div>Apaixonado por tecnologia, atuo no mercado há 3 anos, e atualmente trabalho como desenvolvedor de software, com foco em Node.js, Laravel, HTML5, JavaScript, CSS3, PostgreSQL e Web API. 
+</p/>
   <li><sub>Sou estudante de Ciência da Computação 💻<sub/></li>
   <li><sub>Atualmente venho me aprofundando nos estudos em ReactJs, Typescript, NodeJs, e conceitos de Clean Architecture.<sub/></li>
   <li><sub>Hobbies... Saxofone 🎷, Video Game 🎮 (principalmente os de gênero RPG) e Animes.<sub/></li>
