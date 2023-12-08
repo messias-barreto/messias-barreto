@@ -7,7 +7,7 @@
 
 <div>Apaixonado por tecnologia, atuo no mercado há 3 anos, e atualmente trabalho como desenvolvedor de software, com foco em Node.js, Laravel, HTML5, JavaScript, CSS3, PostgreSQL e Web API. 
 </p/>
-  <li><sub>Sou Formado no curso Ciência da Computação 💻<sub/></li>
+  <li><sub>Sou Formado em Ciência da Computação 💻<sub/></li>
   <li><sub>Atualmente venho me aprofundando nos estudos em ReactJs, Typescript, NodeJs, e conceitos de Clean Architecture.<sub/></li>
   <li><sub>Hobbies... Saxofone 🎷, Video Game 🎮 (principalmente os de gênero RPG) e Animes.<sub/></li>
 </div><br />
