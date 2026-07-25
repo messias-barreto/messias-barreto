@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2E3192&height=200&section=header&text=Messias%20Barreto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Explorando%20o%20mundo%20da%20IA&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2E3192&height=200&section=header&text=Messias%20Barreto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Explorando%20o%20mundo%20da%20IA&descAlignY=55&descSize=18" />
 
 <div align="center">
 
@@ -21,7 +21,6 @@ Apaixonado por tecnologia, atuo no mercado há 6 anos como desenvolvedor de soft
   - 🎮 Video Game (RPGs)
   - 🎲 RPG de mesa
   - 📺 Animes <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cb16daa-a978-45d2-a6fd-24e06dc6f47a/df2xyre-39334b6f-fcc4-43bd-a0e0-f0d058dc42eb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZjYjE2ZGFhLWE5NzgtNDVkMi1hNmZkLTI0ZTA2ZGM2ZjQ3YVwvZGYyeHlyZS0zOTMzNGI2Zi1mY2M0LTQzYmQtYTBlMC1mMGQwNThkYzQyZWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kEpbv-VoAYMo8Z5fSmz2Vg9vUpXYj7gIaySVbKuBPqY" width="26" alt="Zoro" />
-
 
 <br />
 
